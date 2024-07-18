@@ -1,20 +1,4 @@
-# Conversation avec ChatGPT
-
-> **Utilisateur** : c'est quoi wlroots
->
-> **ChatGPT** : `wlroots` est une bibliothèque modulaire pour les compositeurs Wayland. Elle fournit une base solide pour la création de compositeurs Wayland en gérant des tâches courantes telles que la gestion des entrées (claviers, souris, etc.), la gestion des sorties (écrans), et la communication avec le serveur Wayland. `wlroots` permet aux développeurs de se concentrer sur les aspects spécifiques de leur compositeur sans avoir à réimplémenter les fonctionnalités de base.
->
-> Voici quelques-unes des fonctionnalités clés de `wlroots` :
->
-> 1. **Gestion des sorties** : `wlroots` gère les écrans, leurs résolutions et configurations.
-> 2. **Gestion des entrées** : Elle supporte une variété de périphériques d'entrée tels que les claviers, souris et tablettes graphiques.
-> 3. **Support des fenêtres** : `wlroots` s'occupe des opérations de base des fenêtres comme le déplacement, le redimensionnement et le focus.
-> 4. **Compatibilité** : Elle est conçue pour être compatible avec différentes bibliothèques de rendu et fonctionne bien avec des projets comme `Mesa`.
->
-> En utilisant `wlroots`, les développeurs peuvent créer des compositeurs Wayland personnalisés et performants plus facilement.
-
-> **Utilisateur** : comment configurer une ssh key github avec mon archlinux
->
+# Creer une cle SSH pour github
 > **ChatGPT** : Configurer une clé SSH pour GitHub sous Arch Linux implique plusieurs étapes. Voici un guide détaillé :
 >
 > ### Étape 1 : Vérifiez les clés SSH existantes
